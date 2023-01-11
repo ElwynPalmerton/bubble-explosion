@@ -1,0 +1,64 @@
+Circles moving with different magnitudes of variation within each given 
+    type.
+
+    Various Walkers with randomly determined movements:
+
+        Gaussian
+        Noise
+        random
+
+        These can apply to direction or size or forces or second order
+        relations to how and when the speed (or shape) will change.
+    
+        exposential, logmarithmic?
+
+
+
+    Circles with a constant speed in a given direction
+
+    FlowField
+
+    Steering
+
+    flocking.
+
+    setTimeout and go back to original position.
+
+    Make the colors really weird and washed out or abrasive or overtly referential so 
+    that they don't just look like "computer art colors." Or make them so straightforwardly
+    honest about their context and what they do that they're purely literal. Or embrace
+    the overall aesthetic of web design while contradicting or expanding the palette.
+
+    
+
+    No artists in the art world - or very very few - can code so it is kind of, possibly,
+    a really unexplored territory. The question is where the somewhat accessible form of
+    creative coding which has been popularized by Daniel Shiffman and p5. 
+
+    To what degree does making the coding more elaborate or "better" make the 
+    art better and what point are you striving for a kind of self-indulgent technqiue.
+
+    Technique is style. What is the style if you make the coding more complex.
+
+    If it's technically better it's better. But technique includes the knowledge of
+    art and art history that informs it and the choices made on those criteria
+    not "just" the complexity of the coding.
+
+    This includes, especially, color which symptomatic of other types of more
+    "structural" qualities like the shapes themselves or the ways in which 
+    they move. 
+
+    ColorFactory is good because the coding was being practiced and expanded - doing
+    something that I haven't done before - without straining, purely, for complexity.
+
+    What does it mean to visualize the shapes that your coding. These become an
+    interface.
+
+    The process of writing about these things is a way of understanding what
+    my own thoughts are and then refining them or elaborating on them.
+
+    What is restraintt here and is it necessary?
+
+    Figure out how to do something with the skills that you've learned that defies,
+    contradicts, or undermines the logic of the context in which you've learned 
+    those things.
